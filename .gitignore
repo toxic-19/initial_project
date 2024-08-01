@@ -1,0 +1,11 @@
+*/node_modules/**
+*/package-lock.json
+.idea
+.vscode
+.DS_Store
+*/dist
+
+
+# local env files
+.env.local
+.env.*.local
